@@ -1,6 +1,6 @@
 # casen2017
 
-La encuesta en formato `csv` está disponible en el archivo [Casen2017.csv.gz](https://github.com/diegocaro/casen2017/releases/download/v1/Casen2017.tar.gz) (73MB).
+La encuesta en formato `csv` está disponible en el archivo [casen_2017.tar](https://github.com/diegocaro/casen2017/releases/download/v1/casen_2017.tar) (73MB).
 
 Si quieres convertir la base de datos SPSS a CSV debes:
 
